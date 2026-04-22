@@ -1,10 +1,10 @@
-﻿# ðŸ¤– PANDUAN RESMI LOMBA ROBOT LINE FOLLOWER
+# 🤖 PANDUAN RESMI LOMBA ROBOT LINE FOLLOWER
 
-**Versi:** 3.0 â€” Audit Final & Lengkap
+**Versi:** 4.0 — Final & Terverifikasi
 **Berlaku untuk:** Kategori Analog (A) & Digital (D) | Jenjang SMP s.d. Mahasiswa/Umum
 
 > *Disusun & diverifikasi berdasarkan referensi regulasi:*
-> *Technocorner UGM Â· RobotChallenge Â· ELCCO Udayana Â· IPB MBF Â· MRC Â· BIRT 2024/2025*
+> *Technocorner UGM · RobotChallenge · ELCCO Udayana · IPB MBF · MRC · BIRT 2024/2025*
 
 ---
 
@@ -35,8 +35,8 @@ Lomba ini terbuka untuk jenjang **SMP ke atas**, meliputi:
 
 | Jenjang | Keterangan |
 |---------|-----------|
-| SMP / MTs | Kelas 7â€“9 |
-| SMA / SMK / MA | Kelas 10â€“12 |
+| SMP / MTs | Kelas 7–9 |
+| SMA / SMK / MA | Kelas 10–12 |
 | Mahasiswa | D3, D4, S1 semua jurusan |
 | Umum | Lulusan / profesional muda |
 
@@ -44,16 +44,16 @@ Lomba ini terbuka untuk jenjang **SMP ke atas**, meliputi:
 
 | Jenjang | Anggota Tim | Pembimbing |
 |---------|-------------|-----------|
-| SMP / MTs | 2â€“3 siswa | 1 guru/pembina **(wajib)** |
-| SMA / SMK / MA | 2â€“4 siswa | 1 guru/pembina **(wajib)** |
-| Mahasiswa / Umum | 2â€“5 orang | 1 mentor *(opsional)* |
+| SMP / MTs | 2–3 siswa | 1 guru/pembina **(wajib)** |
+| SMA / SMK / MA | 2–4 siswa | 1 guru/pembina **(wajib)** |
+| Mahasiswa / Umum | 2–5 orang | 1 mentor *(opsional)* |
 
-> ðŸ“Œ Satu orang **tidak boleh** terdaftar sebagai anggota di lebih dari **satu tim** dalam kategori yang sama.
+> 📌 Satu orang **tidak boleh** terdaftar sebagai anggota di lebih dari **satu tim** dalam kategori yang sama.
 > Pembimbing **tidak diizinkan** memberikan arahan teknis kepada robot atau anggota tim selama pertandingan berlangsung.
 
 ### 1.3 Batas Tim Per Institusi
 
-- Satu sekolah / kampus / lembaga **maksimum mendaftarkan 3 tim per kategori**. Â¹
+- Satu sekolah / kampus / lembaga **maksimum mendaftarkan 3 tim per kategori**. ¹
 - Jika jumlah pendaftar dari satu institusi melebihi batas, panitia berhak menyeleksi berdasarkan urutan waktu pendaftaran.
 
 ### 1.4 Ketentuan Tim Lintas Jenjang
@@ -66,7 +66,7 @@ Jika anggota sebuah tim berasal dari **jenjang yang berbeda** (misal: 1 siswa SM
 | Semua SMA atau campuran SMP+SMA | Tim dikategorikan sebagai **SMA/SMK** |
 | Semua anggota SMP | Tim dikategorikan sebagai **SMP** |
 
-> ðŸ“Œ Kategorisasi jenjang memengaruhi persyaratan **wajib/tidaknya pembimbing**. Kategori jenjang **tidak** membatasi pilihan Kategori Lomba (Analog/Digital).
+> 📌 Kategorisasi jenjang memengaruhi persyaratan **wajib/tidaknya pembimbing**. Kategori jenjang **tidak** membatasi pilihan Kategori Lomba (Analog/Digital).
 
 ### 1.5 Ketentuan Robot
 
@@ -78,7 +78,7 @@ Jika anggota sebuah tim berasal dari **jenjang yang berbeda** (misal: 1 siswa SM
 
 ### 1.6 Prinsip Otonomi Mutlak
 
-> âš ï¸ **ATURAN TIDAK DAPAT DIGANGGU GUGAT**
+> ⚠️ **ATURAN TIDAK DAPAT DIGANGGU GUGAT**
 >
 > Setelah sinyal start diberikan, robot **wajib beroperasi 100% otonom tanpa campur tangan manusia apapun**. Penggunaan remote control, Bluetooth, Wi-Fi, modul radio frekuensi (RF), atau alat kendali nirkabel dalam bentuk apapun **saat robot berada di lintasan** adalah pelanggaran fatal yang berujung **diskualifikasi langsung**.
 
@@ -88,7 +88,7 @@ Jika anggota sebuah tim berasal dari **jenjang yang berbeda** (misal: 1 siswa SM
 
 Lomba ini membuka **2 (dua) kategori resmi yang berjalan terpisah:**
 
-### Kategori A â€” Analog
+### Kategori A — Analog
 
 | Aspek | Ketentuan |
 |-------|-----------|
@@ -99,23 +99,23 @@ Lomba ini membuka **2 (dua) kategori resmi yang berjalan terpisah:**
 | **Kalibrasi** | Hanya boleh menggunakan **potensiometer fisik**, bukan software |
 | **Target utama** | SMP, SMA/SMK |
 
-### Kategori D â€” Digital / Mikrokontroler
+### Kategori D — Digital / Mikrokontroler
 
 | Aspek | Ketentuan |
 |-------|-----------|
 | **Teknologi** | Mikrokontroler bebas (Arduino Uno/Nano, ATmega, ARM Cortex, ESP32, STM32, dll.) |
 | **Sensor** | IR array / QTR sensor, **maksimum 10 sensor** |
 | **Logika kontrol** | Bebas, termasuk algoritma PID, fuzzy, atau lainnya |
-| **Kalibrasi** | Boleh melalui software, dip switch, tombol, LCD onboard â€” **hanya saat robot tidak di lintasan** |
+| **Kalibrasi** | Boleh melalui software, dip switch, tombol, LCD onboard — **hanya saat robot tidak di lintasan** |
 | **Target utama** | SMP (diizinkan)*, SMA/SMK, Mahasiswa, Umum |
 
-> *âš ï¸ **Catatan untuk SMP di Kategori Digital:** Peserta SMP **diizinkan** mendaftar di Kategori D selama robot memenuhi seluruh spesifikasi teknis. Tidak ada larangan berdasarkan jenjang â€” kemampuan teknis menentukan kategori.*
+> *⚠️ **Catatan untuk SMP di Kategori Digital:** Peserta SMP **diizinkan** mendaftar di Kategori D selama robot memenuhi seluruh spesifikasi teknis. Tidak ada larangan berdasarkan jenjang — kemampuan teknis menentukan kategori.*
 
-> ðŸ’¡ Peserta **boleh mendaftar di kedua kategori sekaligus** dengan robot yang **berbeda** untuk masing-masing kategori.
+> 💡 Peserta **boleh mendaftar di kedua kategori sekaligus** dengan robot yang **berbeda** untuk masing-masing kategori.
 
 ### 2.3 Jaminan Jadwal Tidak Bentrok
 
-> âœ… **Panitia berkomitmen** bahwa jadwal Kategori A (Analog) dan Kategori D (Digital) **tidak akan dijalankan secara paralel / bersamaan** pada babak manapun.
+> ✅ **Panitia berkomitmen** bahwa jadwal Kategori A (Analog) dan Kategori D (Digital) **tidak akan dijalankan secara paralel / bersamaan** pada babak manapun.
 >
 > Peserta yang mendaftar di kedua kategori **dijamin mendapat kesempatan bertanding di keduanya** tanpa konflik waktu. Urutan kategori yang tampil ditentukan oleh panitia dan diumumkan pada saat Technical Meeting.
 
@@ -131,15 +131,15 @@ Lomba ini membuka **2 (dua) kategori resmi yang berjalan terpisah:**
 | Lebar | maks. **20 cm** | maks. **25 cm** |
 | Tinggi | maks. **15 cm** | maks. **25 cm** |
 
-> ðŸ“Œ Verifikasi dimensi menggunakan **kotak uji (inspection box)** resmi dari panitia â€” robot harus bisa masuk secara keseluruhan tanpa hambatan.
+> 📌 Verifikasi dimensi menggunakan **kotak uji (inspection box)** resmi dari panitia — robot harus bisa masuk secara keseluruhan tanpa hambatan.
 > Robot **dilarang** berubah bentuk, memperluas panel, atau menjatuhkan komponen apapun saat bergerak di lintasan.
 
 ### 3.2 Berat Maksimum
 
 | Kategori | Berat Maks. | Toleransi |
 |----------|------------|-----------|
-| Kategori A (Analog) | **1,0 kg** | Â±50 gram (Â±5%) |
-| Kategori D (Digital) | **1,5 kg** | Â±75 gram (Â±5%) |
+| Kategori A (Analog) | **1,0 kg** | ±50 gram (±5%) |
+| Kategori D (Digital) | **1,5 kg** | ±75 gram (±5%) |
 
 > Berat diukur dalam kondisi **baterai terpasang dan terisi penuh** (kondisi siap bertanding).
 
@@ -148,7 +148,7 @@ Lomba ini membuka **2 (dua) kategori resmi yang berjalan terpisah:**
 | Komponen | Spesifikasi |
 |----------|-------------|
 | Jenis motor | Motor DC standar |
-| Kecepatan motor | â‰¤ 250 RPM *(dengan gearbox, direkomendasikan)* |
+| Kecepatan motor | ≤ 250 RPM *(dengan gearbox, direkomendasikan)* |
 | Diameter roda maksimum | **65 mm** |
 | Lebar tapak ban maksimum | **30 mm** |
 
@@ -159,37 +159,37 @@ Lomba ini membuka **2 (dua) kategori resmi yang berjalan terpisah:**
 | Analog (A) | **4 sensor** | LDR, Fotodioda |
 | Digital (D) | **10 sensor** | IR Inframerah Array, QTR Series, dan sejenisnya |
 
-> ðŸ“Œ Termasuk sensor tambahan seperti ultrasonik/proximity **tidak dihitung** dalam kuota sensor garis, namun keberadaannya wajib dilaporkan saat homologasi.
+> 📌 Termasuk sensor tambahan seperti ultrasonik/proximity **tidak dihitung** dalam kuota sensor garis, namun keberadaannya wajib dilaporkan saat homologasi.
 
 ### 3.5 Sumber Daya (Baterai)
 
-- Robot wajib menggunakan **baterai onboard** â€” tidak ada kabel daya eksternal dalam kondisi apapun saat bertanding.
+- Robot wajib menggunakan **baterai onboard** — tidak ada kabel daya eksternal dalam kondisi apapun saat bertanding.
 - **Tegangan maksimum yang diizinkan:**
 
 | Kategori | Tegangan Maks. |
 |----------|----------------|
-| Kategori A â€” Analog | **9 Volt DC** |
-| Kategori D â€” Digital | **12 Volt DC** |
+| Kategori A — Analog | **9 Volt DC** |
+| Kategori D — Digital | **12 Volt DC** |
 
 | Jenis Baterai | Status |
 |---------------|--------|
-| Baterai kering (Dry Cell / AA) | âœ… Diizinkan |
-| Gel Cell | âœ… Diizinkan |
-| NiCad (Nikel-Kadmium) | âœ… Diizinkan |
-| Li-Ion (Lithium-Ion) | âœ… Diizinkan |
-| LiPo (Lithium Polymer) | âœ… Diizinkan |
-| Baterai basah / berpotensi bocor cairan | âŒ **Dilarang keras** |
+| Baterai kering (Dry Cell / AA) | ✅ Diizinkan |
+| Gel Cell | ✅ Diizinkan |
+| NiCad (Nikel-Kadmium) | ✅ Diizinkan |
+| Li-Ion (Lithium-Ion) | ✅ Diizinkan |
+| LiPo (Lithium Polymer) | ✅ Diizinkan |
+| Baterai basah / berpotensi bocor cairan | ❌ **Dilarang keras** |
 
-> âš ï¸ Panitia berhak **mengukur ulang voltase baterai** menggunakan multimeter kapan saja sebelum maupun setelah pertandingan tanpa pemberitahuan. Voltase melebihi batas = **diskualifikasi langsung**.
+> ⚠️ Panitia berhak **mengukur ulang voltase baterai** menggunakan multimeter kapan saja sebelum maupun setelah pertandingan tanpa pemberitahuan. Voltase melebihi batas = **diskualifikasi langsung**.
 
 ### 3.6 Ketentuan Tambahan
 
 | Ketentuan | Status |
 |-----------|--------|
-| Aerodinamika aktif (kipas suction, EDF, turbin downforce) | âŒ **Dilarang** di semua kategori |
-| Komponen berpotensi bocor (oli, pelumas cair) di lintasan | âŒ **Dilarang** |
-| Bagian tajam yang berpotensi melukai orang/merusak lintasan | âŒ **Dilarang** |
-| Kabel yang menjuntai / longgar keluar dari bodi robot | âŒ **Dilarang** |
+| Aerodinamika aktif (kipas suction, EDF, turbin downforce) | ❌ **Dilarang** di semua kategori |
+| Komponen berpotensi bocor (oli, pelumas cair) di lintasan | ❌ **Dilarang** |
+| Bagian tajam yang berpotensi melukai orang/merusak lintasan | ❌ **Dilarang** |
+| Kabel yang menjuntai / longgar keluar dari bodi robot | ❌ **Dilarang** |
 
 ---
 
@@ -198,21 +198,21 @@ Lomba ini membuka **2 (dua) kategori resmi yang berjalan terpisah:**
 ### 4.1 Jenis & Dimensi Lintasan
 
 Lintasan yang digunakan adalah **lintasan terbuka** (*open track*):
-- Robot bergerak dari titik **Start** menuju titik **Finish** â€” bukan loop/melingkar.
-- Lintasan **digelar langsung di atas lantai** *(bukan di atas meja/platform)*. Tinggi permukaan lintasan dari lantai = **0 cm** (rata lantai). Â²
+- Robot bergerak dari titik **Start** menuju titik **Finish** — bukan loop/melingkar.
+- Lintasan **digelar langsung di atas lantai** *(bukan di atas meja/platform)*. Tinggi permukaan lintasan dari lantai = **0 cm** (rata lantai). ²
 
 **Dimensi area arena standar:**
 
 | Elemen | Dimensi Standar | Referensi |
 |--------|----------------|-----------|
-| Panjang area arena | **minimum 4,5 meter** | RobotChallenge Â³ |
-| Lebar area arena | **minimum 2,8 meter** | RobotChallenge Â³ |
-| Panjang total jalur garis (path length) | **5â€“8 meter** | Standar kompetisi regional â´ |
-| Lebar area start/finish | **minimum 50 cm** | Technocorner UGM âµ |
+| Panjang area arena | **minimum 4,5 meter** | RobotChallenge ³ |
+| Lebar area arena | **minimum 2,8 meter** | RobotChallenge ³ |
+| Panjang total jalur garis (path length) | **5–8 meter** | Standar kompetisi regional ⁴ |
+| Lebar area start/finish | **minimum 50 cm** | Technocorner UGM ⁵ |
 
-> ðŸ“Œ Untuk kompetisi edisi pertama dengan lintasan dasar, dimensi **minimum yang direkomendasikan** adalah area **3 meter Ã— 4 meter**. Peserta dapat menggunakan informasi ini untuk kalibrasi sensitivitas robot sebelum hari-H.
+> 📌 Untuk kompetisi edisi pertama dengan lintasan dasar, dimensi **minimum yang direkomendasikan** adalah area **3 meter × 4 meter**. Peserta dapat menggunakan informasi ini untuk kalibrasi sensitivitas robot sebelum hari-H.
 
-> ðŸ’¡ Lintasan digelar di atas lantai rata (bukan meja), sehingga **tidak ada risiko robot jatuh dari ketinggian**. Batas fisik arena hanya berupa penanda tali/pita di sekeliling area.
+> 💡 Lintasan digelar di atas lantai rata (bukan meja), sehingga **tidak ada risiko robot jatuh dari ketinggian**. Batas fisik arena hanya berupa penanda tali/pita di sekeliling area.
 
 ### 4.2 Material & Tampilan
 
@@ -229,28 +229,28 @@ Lintasan yang digunakan adalah **lintasan terbuka** (*open track*):
 
 | Kategori | Lebar Garis Hitam | Toleransi Cetak |
 |----------|--------------------|-----------------|
-| Kategori A â€” Analog | **28â€“30 mm** | Â±2 mm |
-| Kategori D â€” Digital | **20 mm** | Â±2 mm (18â€“22 mm) |
+| Kategori A — Analog | **28–30 mm** | ±2 mm |
+| Kategori D — Digital | **20 mm** | ±2 mm (18–22 mm) |
 
-### 4.4 Geometri Lintasan (Edisi Pertama â€” Lintasan Dasar)
+### 4.4 Geometri Lintasan (Edisi Pertama — Lintasan Dasar)
 
 | Elemen | Status | Spesifikasi Teknis |
 |--------|--------|-------------------|
-| âœ… **Tikungan Tajam** | **DIGUNAKAN** | Sudut 45Â°â€“65Â°, radius minimum 150 mm |
-| âœ… **Garis Putus (Line Gap)** | **DIGUNAKAN** | Jeda/gap sepanjang 3â€“5 cm |
-| âœ… **Persimpangan** | **DIGUNAKAN** | Tipe `T` (pertigaan) dan/atau `+` (palang) |
-| âŒ Elevasi / Bukit | Tidak digunakan edisi ini | â€” |
-| âŒ Obstacle / Penghalang | Tidak digunakan edisi ini | â€” |
-| âŒ Inversi Warna | Tidak digunakan edisi ini | â€” |
-| âŒ Terowongan Gelap | Tidak digunakan edisi ini | â€” |
-| âŒ Persimpangan S / V / Z | Tidak digunakan edisi ini | â€” |
+| ✅ **Tikungan Tajam** | **DIGUNAKAN** | Sudut 45°–65°, radius minimum 150 mm |
+| ✅ **Garis Putus (Line Gap)** | **DIGUNAKAN** | Jeda/gap sepanjang 3–5 cm |
+| ✅ **Persimpangan** | **DIGUNAKAN** | Tipe `T` (pertigaan) dan/atau `+` (palang) |
+| ❌ Elevasi / Bukit | Tidak digunakan edisi ini | — |
+| ❌ Obstacle / Penghalang | Tidak digunakan edisi ini | — |
+| ❌ Inversi Warna | Tidak digunakan edisi ini | — |
+| ❌ Terowongan Gelap | Tidak digunakan edisi ini | — |
+| ❌ Persimpangan S / V / Z | Tidak digunakan edisi ini | — |
 
 ### 4.5 Ketentuan Kerahasiaan Lintasan
 
-> ðŸ”’ **Desain spesifik lintasan Semifinal dan Final berbeda dari lintasan Penyisihan.**
+> 🔒 **Desain spesifik lintasan Semifinal dan Final berbeda dari lintasan Penyisihan.**
 > - Desain lintasan babak lanjut **tidak diperlihatkan kepada peserta sebelum babak tersebut dimulai**.
 > - Lintasan Penyisihan dapat ditampilkan pada saat Technical Meeting sebagai preview.
-> - Seluruh lintasan tetap menggunakan **elemen yang sama** (lihat tabel atas) â€” tidak ada elemen kejutan baru.
+> - Seluruh lintasan tetap menggunakan **elemen yang sama** (lihat tabel atas) — tidak ada elemen kejutan baru.
 
 ---
 
@@ -272,7 +272,7 @@ Lintasan yang digunakan adalah **lintasan terbuka** (*open track*):
 - [ ] Foto robot tampak **depan, samping kiri, samping kanan, atas** (4 foto)
 - [ ] Bukti pembayaran biaya pendaftaran
 
-> âŒ Pendaftaran yang tidak melengkapi **semua** dokumen di atas sebelum batas waktu = **otomatis ditolak tanpa pemberitahuan lebih lanjut**.
+> ❌ Pendaftaran yang tidak melengkapi **semua** dokumen di atas sebelum batas waktu = **otomatis ditolak tanpa pemberitahuan lebih lanjut**.
 
 ### 5.2 Technical Meeting (TM)
 
@@ -286,8 +286,8 @@ Lintasan yang digunakan adalah **lintasan terbuka** (*open track*):
 4. **Pengundian nomor urut penampilan** secara transparan di depan seluruh perwakilan
 5. Pembagian **nomor peserta resmi** dan formulir homologasi
 
-> âš ï¸ **Konsekuensi tidak hadir di TM:**
-> - Kehilangan hak undian â†’ urutan penampilan ditentukan panitia secara acak.
+> ⚠️ **Konsekuensi tidak hadir di TM:**
+> - Kehilangan hak undian → urutan penampilan ditentukan panitia secara acak.
 > - **Kehilangan hak untuk mengajukan keberatan/protes** atas keputusan apapun sepanjang kompetisi.
 > - Wajib menerima dan mematuhi seluruh keputusan panitia tanpa sanggahan.
 
@@ -298,22 +298,22 @@ Semua robot **wajib lolos** pemeriksaan teknis sebelum diizinkan masuk arena per
 | Item Pemeriksaan | Metode | Syarat Lulus |
 |-----------------|--------|--------------|
 | **Dimensi** | Kotak uji (inspection box) | Masuk sempurna tanpa hambatan |
-| **Berat** | Timbangan digital | â‰¤ batas + toleransi Â±5% |
-| **Tegangan baterai** | Multimeter | â‰¤ batas voltase kategori |
+| **Berat** | Timbangan digital | ≤ batas + toleransi ±5% |
+| **Tegangan baterai** | Multimeter | ≤ batas voltase kategori |
 | **Modul nirkabel** | Inspeksi visual + scanning | Tidak ada RF / BT / WiFi |
 | **Jenis teknologi** | Inspeksi komponen | Sesuai kategori yang didaftarkan |
 | **Keamanan komponen** | Inspeksi visual | Tidak ada cairan bocor, bagian tajam, kabel menjuntai |
 | **Identifikasi robot** | Foto vs fisik robot | Sesuai 4 foto yang dikirim saat pendaftaran |
-| **Motor & roda** | Pengukuran fisik | Diameter roda â‰¤ 65mm, lebar tapak â‰¤ 30mm |
+| **Motor & roda** | Pengukuran fisik | Diameter roda ≤ 65mm, lebar tapak ≤ 30mm |
 
 **Alur bila gagal homologasi:**
 1. Tim diberi waktu **maksimal 5 menit** untuk perbaikan di tempat (area homologasi).
 2. Setelah 5 menit, diuji ulang **sekali** oleh petugas yang sama.
-3. Jika tetap gagal â†’ **robot gugur**, tim tidak diizinkan bertanding di kategori tersebut.
+3. Jika tetap gagal → **robot gugur**, tim tidak diizinkan bertanding di kategori tersebut.
 
 **Bila lulus:**
 - Robot diberi **stiker / label homologasi resmi** + **label nomor peserta** dari panitia.
-- Label ini wajib menempel selama kompetisi berlangsung. Jika terlepas â†’ lapor ke panitia segera.
+- Label ini wajib menempel selama kompetisi berlangsung. Jika terlepas → lapor ke panitia segera.
 - Tim diizinkan masuk ke **zona pit stop** yang telah disiapkan.
 - Modifikasi signifikan pasca-homologasi wajib **dilaporkan ke panitia** untuk pemeriksaan ulang.
 
@@ -321,48 +321,48 @@ Semua robot **wajib lolos** pemeriksaan teknis sebelum diizinkan masuk arena per
 
 ## 6. FORMAT & MEKANISME PERTANDINGAN
 
-### 6.1 Struktur Babak (Standar â€” Peserta â‰¥ 9 Tim)
+### 6.1 Struktur Babak (Standar — Peserta ≥ 9 Tim)
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚          BABAK PENYISIHAN  (Hari 1)               â”‚
-â”‚  Format : TIME TRIAL (solo, bergantian per tim)   â”‚
-â”‚  Run    : 2 run per tim â€” diambil WAKTU TERBAIK   â”‚
-â”‚  Jeda   : 5 menit antar run (tuning di pit stop)  â”‚
-â”‚  Catatan: Kat. A dan D terpisah jalur/waktu       â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                  â†“  Top 8 waktu tercepat tiap kategori maju
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚          BABAK SEMIFINAL  (Hari 2, sesi 1)        â”‚
-â”‚  Format : TIME TRIAL (lintasan baru)              â”‚
-â”‚  Run    : 2 run per tim â€” diambil WAKTU TERBAIK   â”‚
-â”‚  Jeda   : 5 menit antar run (tuning di pit stop)  â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-     Top 2 maju   â†“              â†“  Peringkat 3 & 4 bersaing
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚          BABAK FINAL  (Hari 2, sesi 2)            â”‚
-â”‚  Format : BATTLE MODE â€” Head-to-Head              â”‚
-â”‚  Posisi jalur start ditentukan lewat UNDIAN       â”‚
-â”‚  2 robot terbaik berpacu bersamaan                â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌──────────────────────────────────────────────────┐
+│          BABAK PENYISIHAN  (Hari 1)               │
+│  Format : TIME TRIAL (solo, bergantian per tim)   │
+│  Run    : 2 run per tim — diambil WAKTU TERBAIK   │
+│  Jeda   : 5 menit antar run (tuning di pit stop)  │
+│  Catatan: Kat. A dan D terpisah jalur/waktu       │
+└─────────────────┬────────────────────────────────┘
+                  ↓  Top 8 waktu tercepat tiap kategori maju
+┌──────────────────────────────────────────────────┐
+│          BABAK SEMIFINAL  (Hari 2, sesi 1)        │
+│  Format : TIME TRIAL (lintasan baru)              │
+│  Run    : 2 run per tim — diambil WAKTU TERBAIK   │
+│  Jeda   : 5 menit antar run (tuning di pit stop)  │
+└─────────────────┬────────────────────────────────┘
+     Top 2 maju   ↓              ↓  Peringkat 3 & 4 bersaing
+┌──────────────────────────────────────────────────┐
+│          BABAK FINAL  (Hari 2, sesi 2)            │
+│  Format : BATTLE MODE — Head-to-Head              │
+│  Posisi jalur start ditentukan lewat UNDIAN       │
+│  2 robot terbaik berpacu bersamaan                │
+└──────────────────────────────────────────────────┘
 ```
 
-### 6.2 Contingency â€” Format Alternatif (Peserta Sedikit)
+### 6.2 Contingency — Format Alternatif (Peserta Sedikit)
 
 | Jumlah Tim per Kategori | Format yang Digunakan |
 |-------------------------|-----------------------|
-| â‰¥ 9 tim | Format standar: Penyisihan â†’ Semifinal â†’ Final |
-| 5â€“8 tim | **Penyisihan dihapus** â†’ Langsung Semifinal (Top 4) â†’ Final |
-| 3â€“4 tim | **Langsung Final** â€” semua tim bertanding Time Trial, lalu Top 2 Battle Final |
-| â‰¤ 2 tim | Kategori digabung atau hanya Time Trial tanpa babak Battle |
+| ≥ 9 tim | Format standar: Penyisihan → Semifinal → Final |
+| 5–8 tim | **Penyisihan dihapus** → Langsung Semifinal (Top 4) → Final |
+| 3–4 tim | **Langsung Final** — semua tim bertanding Time Trial, lalu Top 2 Battle Final |
+| ≤ 2 tim | Kategori digabung atau hanya Time Trial tanpa babak Battle |
 
-> ðŸ“Œ Format yang berlaku diumumkan **pada saat Technical Meeting** setelah jumlah peserta akhir dikonfirmasi.
+> 📌 Format yang berlaku diumumkan **pada saat Technical Meeting** setelah jumlah peserta akhir dikonfirmasi.
 
 ### 6.3 Penentuan Juara 3
 
 - Juara 3 **tidak memerlukan babak playoff** tersendiri.
 - Juara 3 = robot dengan **peringkat ke-3 terbaik dari hasil Semifinal** (waktu terbaik dari 2 robot yang kalah di semifinal).
-- Jika waktu kedua robot yang kalah **identik** â†’ diadakan **1 run Time Trial tambahan** untuk menentukan Juara 3.
+- Jika waktu kedua robot yang kalah **identik** → diadakan **1 run Time Trial tambahan** untuk menentukan Juara 3.
 
 ### 6.4 Ketentuan Waktu Per Run
 
@@ -370,14 +370,14 @@ Semua robot **wajib lolos** pemeriksaan teknis sebelum diizinkan masuk arena per
 |-----------|-----------|
 | Waktu persiapan di start line | **Maksimum 2 menit** sejak dipanggil masuk area start |
 | Waktu maksimum per run | **3 menit (180 detik)** setelah sinyal start |
-| Syarat finis sah | Robot **berhenti â‰¥ 5 detik** di dalam kotak finish setelah melewati garis akhir |
+| Syarat finis sah | Robot **berhenti ≥ 5 detik** di dalam kotak finish setelah melewati garis akhir |
 | Jika tidak finis dalam 3 menit | Dicatat berdasarkan **jarak terjauh** yang dicapai |
-| Jeda antar run (run 1 â†’ run 2) | **5 menit** â€” tim boleh tuning di pit stop |
+| Jeda antar run (run 1 → run 2) | **5 menit** — tim boleh tuning di pit stop |
 | Pengukur waktu | Stopwatch digital / sensor inframerah di garis Start & Finish |
 
 ### 6.5 Kalibrasi Sensor di Garis Start
 
-> ðŸ“Œ **Ketentuan kalibrasi robot sebelum sinyal start:**
+> 📌 **Ketentuan kalibrasi robot sebelum sinyal start:**
 >
 > - Selama **2 menit waktu persiapan**, tim boleh melakukan **kalibrasi sensor otomatis** (menekan tombol + menyapukan robot di atas garis) selama robot **belum melangkahi titik start**.
 > - Kalibrasi yang dilakukan **setelah robot melewati/berada di atas garis start** namun **sebelum sinyal start dibunyikan** = diizinkan, selama tidak menggerakkan robot maju ke lintasan.
@@ -386,22 +386,22 @@ Semua robot **wajib lolos** pemeriksaan teknis sebelum diizinkan masuk arena per
 ### 6.6 Alur Satu Run (Prosedur Lengkap)
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  1. Panitia memanggil tim (nomor urut undian)    â”‚
-â”‚  2. Tim masuk area start â€” WAKTU PERSIAPAN 2'    â”‚
-â”‚  3. Tim atur posisi robot + kalibrasi sensor     â”‚
-â”‚  4. Seluruh anggota tim mundur dari lintasan     â”‚
-â”‚  5. Panitia beri aba-aba "SIAP!" â€” robot diam    â”‚
-â”‚  6. Peluit / sinyal start â†’ â±ï¸ TIMER MULAI       â”‚
-â”‚  7. Robot bergerak otonom di lintasan            â”‚
-â”‚  8a. Robot lewati garis Finish â†’ timer berhenti  â”‚
-â”‚  8b. 3 menit habis â†’ peluit panitia â†’ stop       â”‚
-â”‚  9. Jarak terjauh dicatat (jika tidak finis)     â”‚
-â”‚  10. Tim ambil robot setelah izin wasit          â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌─────────────────────────────────────────────────┐
+│  1. Panitia memanggil tim (nomor urut undian)    │
+│  2. Tim masuk area start — WAKTU PERSIAPAN 2'    │
+│  3. Tim atur posisi robot + kalibrasi sensor     │
+│  4. Seluruh anggota tim mundur dari lintasan     │
+│  5. Panitia beri aba-aba "SIAP!" — robot diam    │
+│  6. Peluit / sinyal start → ⏱️ TIMER MULAI       │
+│  7. Robot bergerak otonom di lintasan            │
+│  8a. Robot lewati garis Finish → timer berhenti  │
+│  8b. 3 menit habis → peluit panitia → stop       │
+│  9. Jarak terjauh dicatat (jika tidak finis)     │
+│  10. Tim ambil robot setelah izin wasit          │
+└─────────────────────────────────────────────────┘
 ```
 
-> âŒ Tim **dilarang** mendekati atau menyentuh robot selama run berlangsung, kecuali dalam prosedur Retry yang sah (Bab 9).
+> ❌ Tim **dilarang** mendekati atau menyentuh robot selama run berlangsung, kecuali dalam prosedur Retry yang sah (Bab 9).
 
 ### 6.7 Klausul Gangguan Teknis & Force Majeure
 
@@ -414,7 +414,7 @@ Jika terjadi gangguan di luar kendali peserta selama run berlangsung:
 | **Gangguan dari luar** (orang lain menabrak lintasan, dll.) | Run dihentikan, diulangi dari awal |
 | **Lintasan rusak karena robot peserta** | Run dihentikan, jarak dicatat sampai titik kerusakan, tim menanggung biaya perbaikan ringan |
 
-> Keputusan dalam kondisi force majeure merupakan **hak mutlak Ketua Wasit** â€” tidak dapat diprotes.
+> Keputusan dalam kondisi force majeure merupakan **hak mutlak Ketua Wasit** — tidak dapat diprotes.
 
 ---
 
@@ -424,15 +424,15 @@ Jika terjadi gangguan di luar kendali peserta selama run berlangsung:
 
 | Zona | Akses | Keterangan |
 |------|-------|-----------|
-| ðŸ”´ **Area Lintasan** | Panitia & wasit saja (saat run) | Tim masuk hanya saat giliran dan seizin wasit |
-| ðŸŸ¡ **Area Start/Finish** | Tim saat giliran tampil | Maksimum **2 orang** dari tim boleh masuk |
-| ðŸŸ¢ **Pit Stop** | Tim terdaftar saja | Zona eksklusif perbaikan & tuning robot |
-| âšª **Area Penonton/Tunggu** | Umum | Tim yang tidak sedang tampil menunggu di sini |
-| ðŸ“· **Zona Fotografer** | Media / dokumentasi panitia | Hanya dari luar batas tali arena, tidak boleh masuk area lintasan |
+| 🔴 **Area Lintasan** | Panitia & wasit saja (saat run) | Tim masuk hanya saat giliran dan seizin wasit |
+| 🟡 **Area Start/Finish** | Tim saat giliran tampil | Maksimum **2 orang** dari tim boleh masuk |
+| 🟢 **Pit Stop** | Tim terdaftar saja | Zona eksklusif perbaikan & tuning robot |
+| ⚪ **Area Penonton/Tunggu** | Umum | Tim yang tidak sedang tampil menunggu di sini |
+| 📷 **Zona Fotografer** | Media / dokumentasi panitia | Hanya dari luar batas tali arena, tidak boleh masuk area lintasan |
 
 ### 7.2 Aturan Alas Kaki di Area Lintasan
 
-> ðŸ‘Ÿ **WAJIB DIPATUHI â€” Berlaku untuk SEMUA orang: peserta, panitia, wasit, dan tamu**
+> 👟 **WAJIB DIPATUHI — Berlaku untuk SEMUA orang: peserta, panitia, wasit, dan tamu**
 >
 > Siapapun yang **menginjak permukaan lintasan** (banner cetak):
 > - **WAJIB melepas alas kaki** terlebih dahulu
@@ -440,33 +440,33 @@ Jika terjadi gangguan di luar kendali peserta selama run berlangsung:
 >
 > Alas kaki bersol keras, sepatu, sandal, atau alas kaki apapun dapat mengikis dan mengotori permukaan banner yang berdampak langsung pada akurasi sensor robot.
 >
-> ðŸ’¡ Panitia disarankan menyediakan **kaos kaki cadangan** bagi peserta yang lupa.
+> 💡 Panitia disarankan menyediakan **kaos kaki cadangan** bagi peserta yang lupa.
 
 ### 7.3 Aturan Fotografi & Pencahayaan Saat Run Berlangsung
 
-> ðŸ“¸ **WAJIB DIPATUHI â€” Berlaku saat robot sedang berjalan di lintasan**
+> 📸 **WAJIB DIPATUHI — Berlaku saat robot sedang berjalan di lintasan**
 
 | Ketentuan | Status | Alasan |
 |-----------|--------|--------|
-| **Flash kamera** (HP, DSLR, mirrorless) | âŒ **DILARANG** saat run berlangsung | Kilatan cahaya IR dapat membutakan / mengacaukan sensor fotodioda dan IR array robot secara permanen â¶ |
-| **Lampu sorot / spotlight** diarahkan ke lintasan | âŒ **DILARANG** saat run berlangsung | Sama seperti di atas |
-| Foto/video tanpa flash dari area penonton | âœ… Diizinkan | â€” |
-| Dokumentasi panitia (non-flash) | âœ… Diizinkan dari zona fotografer | â€” |
+| **Flash kamera** (HP, DSLR, mirrorless) | ❌ **DILARANG** saat run berlangsung | Kilatan cahaya IR dapat membutakan / mengacaukan sensor fotodioda dan IR array robot secara permanen ⁶ |
+| **Lampu sorot / spotlight** diarahkan ke lintasan | ❌ **DILARANG** saat run berlangsung | Sama seperti di atas |
+| Foto/video tanpa flash dari area penonton | ✅ Diizinkan | — |
+| Dokumentasi panitia (non-flash) | ✅ Diizinkan dari zona fotografer | — |
 
-> âš ï¸ Jika flash kamera dari penonton menyebabkan robot gagal/crash saat run berlangsung, wasit **berhak memutuskan run diulang** atas kebijaksanaan Ketua Wasit. Identitas pelaku flash dicatat dan diperingatkan.
+> ⚠️ Jika flash kamera dari penonton menyebabkan robot gagal/crash saat run berlangsung, wasit **berhak memutuskan run diulang** atas kebijaksanaan Ketua Wasit. Identitas pelaku flash dicatat dan diperingatkan.
 
 ### 7.4 Dress Code Peserta
 
 | Ketentuan | Status |
 |-----------|--------|
-| Pakaian sopan (kemeja, polo, kaos berkerah) | âœ… Dianjurkan |
-| Kaos biasa yang bersih & tidak menyinggung | âœ… Diizinkan |
-| Seragam tim dengan nama/logo tim | âœ… **Sangat dianjurkan** |
-| Kaos tanpa lengan (*singlet*) | âŒ Tidak diizinkan |
-| Celana pendek di atas lutut | âŒ Tidak diizinkan |
-| Pakaian bertulisan / bergambar tidak pantas | âŒ Tidak diizinkan |
+| Pakaian sopan (kemeja, polo, kaos berkerah) | ✅ Dianjurkan |
+| Kaos biasa yang bersih & tidak menyinggung | ✅ Diizinkan |
+| Seragam tim dengan nama/logo tim | ✅ **Sangat dianjurkan** |
+| Kaos tanpa lengan (*singlet*) | ❌ Tidak diizinkan |
+| Celana pendek di atas lutut | ❌ Tidak diizinkan |
+| Pakaian bertulisan / bergambar tidak pantas | ❌ Tidak diizinkan |
 
-> Tim yang melanggar â†’ **peringatan lisan**. Jika tidak diindahkan â†’ **tidak diizinkan masuk area pertandingan** hingga mematuhi aturan.
+> Tim yang melanggar → **peringatan lisan**. Jika tidak diindahkan → **tidak diizinkan masuk area pertandingan** hingga mematuhi aturan.
 
 ### 7.4 Aturan Pit Stop
 
@@ -474,20 +474,20 @@ Pit stop adalah **satu-satunya zona** di mana anggota tim boleh melakukan modifi
 
 | Aktivitas | Status |
 |-----------|--------|
-| Mengganti baterai | âœ… Diizinkan |
-| Mengubah parameter tuning (kecepatan, PID, threshold) | âœ… Diizinkan |
-| Upload ulang kode program | âœ… Diizinkan |
-| Kalibrasi ulang sensor (offline, di pit stop) | âœ… Diizinkan |
-| Memperbaiki komponen mekanik kecil yang longgar | âœ… Diizinkan |
-| Mengganti motor / board mikrokontroler utama | âš ï¸ Wajib lapor ke panitia untuk pemeriksaan ulang |
-| Mengubah dimensi sasis secara signifikan | âŒ Dilarang tanpa homologasi ulang |
-| Membawa robot ke luar venue tanpa izin panitia | âŒ Dilarang |
+| Mengganti baterai | ✅ Diizinkan |
+| Mengubah parameter tuning (kecepatan, PID, threshold) | ✅ Diizinkan |
+| Upload ulang kode program | ✅ Diizinkan |
+| Kalibrasi ulang sensor (offline, di pit stop) | ✅ Diizinkan |
+| Memperbaiki komponen mekanik kecil yang longgar | ✅ Diizinkan |
+| Mengganti motor / board mikrokontroler utama | ⚠️ Wajib lapor ke panitia untuk pemeriksaan ulang |
+| Mengubah dimensi sasis secara signifikan | ❌ Dilarang tanpa homologasi ulang |
+| Membawa robot ke luar venue tanpa izin panitia | ❌ Dilarang |
 
 ---
 
 ## 8. SISTEM PENILAIAN
 
-### 8.1 Babak Penyisihan & Semifinal â€” TIME TRIAL
+### 8.1 Babak Penyisihan & Semifinal — TIME TRIAL
 
 > **Prinsip: Robot tercepat menyelesaikan lintasan dari Start ke Finish = peringkat tertinggi.**
 
@@ -500,36 +500,36 @@ Pit stop adalah **satu-satunya zona** di mana anggota tim boleh melakukan modifi
 
 | Prioritas | Kriteria | Berlaku Jika |
 |-----------|---------|-------------|
-| 1ï¸âƒ£ **Utama** | Waktu tercepat finis (detik) | Ada minimal 1 robot yang berhasil finis |
-| 2ï¸âƒ£ **Cadangan** | Jarak terjauh (cm) | Tidak ada robot yang berhasil finis |
-| 3ï¸âƒ£ **Tie-breaker** | Run ulang 1 kali | Waktu / jarak benar-benar identik |
+| 1️⃣ **Utama** | Waktu tercepat finis (detik) | Ada minimal 1 robot yang berhasil finis |
+| 2️⃣ **Cadangan** | Jarak terjauh (cm) | Tidak ada robot yang berhasil finis |
+| 3️⃣ **Tie-breaker** | Run ulang 1 kali | Waktu / jarak benar-benar identik |
 
 **Pengambilan nilai:**
 - Setiap tim mendapat **2 run**.
 - Yang diambil = **waktu terbaik** (run tercepat yang valid di antara 2 run).
-- Jika kedua run gagal finis â†’ nilai = **jarak terjauh** dari kedua run.
-- Jika kedua run tidak bergerak sama sekali (0 cm) â†’ nilai = 0, peringkat terbawah.
+- Jika kedua run gagal finis → nilai = **jarak terjauh** dari kedua run.
+- Jika kedua run tidak bergerak sama sekali (0 cm) → nilai = 0, peringkat terbawah.
 
 ---
 
-### 8.2 Babak Final â€” BATTLE MODE (HEAD-TO-HEAD)
+### 8.2 Babak Final — BATTLE MODE (HEAD-TO-HEAD)
 
 > **Dua robot terbaik berpacu bersamaan di satu lintasan secara serentak.**
 
 **Persiapan Final Battle:**
 1. Dilakukan **undian posisi start** (jalur kiri vs. jalur kanan) oleh Ketua Wasit di hadapan kedua tim.
 2. Kedua robot ditempatkan di posisi start masing-masing.
-3. Panitia membunyikan "SIAP!" â†’ kedua tim mundur dari lintasan.
-4. Panitia membunyikan sinyal start â†’ **kedua robot berjalan bersamaan**.
+3. Panitia membunyikan "SIAP!" → kedua tim mundur dari lintasan.
+4. Panitia membunyikan sinyal start → **kedua robot berjalan bersamaan**.
 
 **Sistem Poin Battle Mode (4-Tier):**
 
 | Kondisi | Poin | Keterangan |
 |---------|------|-----------|
-| ðŸ¥‡ **Finis pertama** â€” lewati garis finish lebih cepat | **3 poin** | Kemenangan mutlak |
-| ðŸ **Finis kedua** â€” berhasil finis meski kalah waktu | **1 poin** | Kalah tapi finis |
-| ðŸ“ **Tidak finis, jarak lebih jauh** â€” jarak lebih jauh dari lawan yang juga tidak finis | **2 poin** | Menang berdasarkan jarak |
-| ðŸ’€ **Tidak finis, jarak lebih pendek** â€” jarak lebih pendek dari lawan | **0 poin** | Kekalahan total |
+| 🥇 **Finis pertama** — lewati garis finish lebih cepat | **3 poin** | Kemenangan mutlak |
+| 🏁 **Finis kedua** — berhasil finis meski kalah waktu | **1 poin** | Kalah tapi finis |
+| 📏 **Tidak finis, jarak lebih jauh** — jarak lebih jauh dari lawan yang juga tidak finis | **2 poin** | Menang berdasarkan jarak |
+| 💀 **Tidak finis, jarak lebih pendek** — jarak lebih pendek dari lawan | **0 poin** | Kekalahan total |
 
 **Tabel skenario lengkap:**
 
@@ -542,8 +542,8 @@ Pit stop adalah **satu-satunya zona** di mana anggota tim boleh melakukan modifi
 | Keduanya tidak finis, jarak sama persis | Rematch | Rematch |
 
 **Rematch:**
-- Jika jarak **benar-benar identik** â†’ **rematch**, maksimum **2 kali**.
-- Jika setelah 2 rematch masih imbang â†’ keputusan **Ketua Wasit bersifat mutlak dan final**.
+- Jika jarak **benar-benar identik** → **rematch**, maksimum **2 kali**.
+- Jika setelah 2 rematch masih imbang → keputusan **Ketua Wasit bersifat mutlak dan final**.
 
 ---
 
@@ -559,23 +559,23 @@ Pit stop adalah **satu-satunya zona** di mana anggota tim boleh melakukan modifi
 | **Semifinal** | **5 kali** | Mulai diperketat |
 | **Final (Battle Mode)** | **3 kali** | Batas elite |
 
-> â±ï¸ **Timer TIDAK berhenti** selama proses retry berlangsung. Waktu terus berjalan.
+> ⏱️ **Timer TIDAK berhenti** selama proses retry berlangsung. Waktu terus berjalan.
 
-**Prosedur Retry yang SAH â€” wajib diikuti urutan ini:**
+**Prosedur Retry yang SAH — wajib diikuti urutan ini:**
 
 ```
 LANGKAH 1: Anggota tim angkat SATU TANGAN, ucapkan "RETRY!" dengan keras
-LANGKAH 2: Tunggu â†’ wasit membunyikan PELUIT TANDA IZIN
+LANGKAH 2: Tunggu → wasit membunyikan PELUIT TANDA IZIN
 LANGKAH 3: Baru boleh menyentuh dan mengangkat robot
 LANGKAH 4: Robot dikembalikan ke titik START
            (jika ada checkpoint yang sudah dilalui: ke checkpoint terakhir)
 LANGKAH 5: Anggota tim mundur dari lintasan
-LANGKAH 6: Wasit beri sinyal lanjut â†’ robot distart kembali
+LANGKAH 6: Wasit beri sinyal lanjut → robot distart kembali
 ```
 
-> âŒ **DILARANG KERAS:**
+> ❌ **DILARANG KERAS:**
 > - Menyentuh robot sebelum ada peluit izin dari wasit
-> - Meletakkan robot di titik tempat crash â†’ harus kembali ke Start atau checkpoint terakhir
+> - Meletakkan robot di titik tempat crash → harus kembali ke Start atau checkpoint terakhir
 > - Memperbaiki atau memodifikasi komponen apapun selama proses retry (hanya diatur posisi)
 
 ### 9.2 Kondisi yang Mewajibkan Retry atau Penghentian Run
@@ -585,14 +585,14 @@ Selain atas permintaan tim, wasit **berhak memerintahkan** retry atau menghentik
 | Kondisi | Tindakan Wasit |
 |---------|----------------|
 | Robot **diam/stuck > 3 detik** tanpa bergerak sama sekali | Perintahkan tim deklarasi retry, atau nyatakan run selesai di titik tersebut |
-| Robot **jatuh keluar dari area fisik lintasan** (ke lantai) | Hentikan run â€” robot diangkat tim, retry jika jatah masih ada |
-| Robot **mengeluarkan asap / bau terbakar** | Hentikan run seketika â€” robot diangkat langsung oleh tim |
+| Robot **jatuh keluar dari area fisik lintasan** (ke lantai) | Hentikan run — robot diangkat tim, retry jika jatah masih ada |
+| Robot **mengeluarkan asap / bau terbakar** | Hentikan run seketika — robot diangkat langsung oleh tim |
 | Robot **merusak permukaan lintasan** | Hentikan run, evaluasi kerusakan, putuskan apakah run diulang |
-| Robot **terus berputar di satu titik > 5 detik** | Wasit memperingatkan tim, jika tidak ada retry yang diminta â†’ run dinyatakan selesai |
+| Robot **terus berputar di satu titik > 5 detik** | Wasit memperingatkan tim, jika tidak ada retry yang diminta → run dinyatakan selesai |
 
-> âš ï¸ **Catatan jatuh dari lintasan:** Robot yang jatuh ke lantai diangkat oleh **tim** (bukan wasit). Wasit hanya boleh menyentuh robot dalam kondisi darurat keselamatan (kebakaran, asap, dll.).
+> ⚠️ **Catatan jatuh dari lintasan:** Robot yang jatuh ke lantai diangkat oleh **tim** (bukan wasit). Wasit hanya boleh menyentuh robot dalam kondisi darurat keselamatan (kebakaran, asap, dll.).
 
-### 9.3 Penalti Waktu (+5 Detik â€” berlaku di Time Trial)
+### 9.3 Penalti Waktu (+5 Detik — berlaku di Time Trial)
 
 | No. | Pelanggaran | Keterangan |
 |-----|------------|-----------|
@@ -601,7 +601,7 @@ Selain atas permintaan tim, wasit **berhak memerintahkan** retry atau menghentik
 | 3 | **Sentuh tanpa izin** | Menyentuh robot di lintasan tanpa izin dan peluit wasit |
 | 4 | **Terlambat ke arena** | Tim belum siap di area start setelah **2 menit** dipanggil |
 
-> ðŸ“ Penalti dicatat oleh **wasit lini** dan diumumkan oleh Ketua Wasit setelah run selesai. Tim tidak boleh protes saat run masih berlangsung.
+> 📝 Penalti dicatat oleh **wasit lini** dan diumumkan oleh Ketua Wasit setelah run selesai. Tim tidak boleh protes saat run masih berlangsung.
 
 ### 9.4 Sistem Peringatan di Battle Mode Final
 
@@ -610,8 +610,8 @@ Penalti +5 detik **tidak berlaku** di Battle Mode. Gantinya:
 | Kejadian | Tindakan |
 |---------|---------|
 | Pelanggaran ringan pertama | **Peringatan lisan** dari wasit |
-| Pelanggaran kedua | **Robot dinyatakan gugur di laga tersebut â†’ 0 poin** |
-| Interferensi fisik sengaja ke robot lawan | **Langsung gugur â†’ 0 poin**, tanpa peringatan |
+| Pelanggaran kedua | **Robot dinyatakan gugur di laga tersebut → 0 poin** |
+| Interferensi fisik sengaja ke robot lawan | **Langsung gugur → 0 poin**, tanpa peringatan |
 
 ---
 
@@ -621,18 +621,18 @@ Tim akan **langsung didiskualifikasi tanpa hak banding** jika terbukti melakukan
 
 | No. | Pelanggaran | Detail |
 |-----|-------------|--------|
-| 1 | ðŸš« **Remote Control** | Penggunaan kendali nirkabel (Bluetooth, WiFi, RF, IR remote) saat robot di lintasan |
-| 2 | ðŸš« **Ganti Hardware di Lintasan** | Mengganti komponen (chip, baterai, kabel, sensor) di dalam/atas area lintasan tanpa izin resmi |
-| 3 | ðŸš« **Substitusi Robot Ilegal** | Menukar robot dengan unit lain yang tidak terdaftar / dimodifikasi signifikan pasca-homologasi |
-| 4 | ðŸš« **Membahayakan Keselamatan** | Robot bocor cairan, mengeluarkan asap/api, meledak, atau melukai orang |
-| 5 | ðŸš« **Absen 3 Kali Panggilan** | Tidak merespons 3 kali panggilan berturut-turut dari panitia di babak manapun |
-| 6 | ðŸš« **Curang / Sabotase** | Memanipulasi data waktu, merusak robot tim lain, atau kecurangan sistematis |
-| 7 | ðŸš« **Pelanggaran Etika Berat** | Intimidasi, penghinaan, ancaman, atau tindakan kekerasan fisik |
+| 1 | 🚫 **Remote Control** | Penggunaan kendali nirkabel (Bluetooth, WiFi, RF, IR remote) saat robot di lintasan |
+| 2 | 🚫 **Ganti Hardware di Lintasan** | Mengganti komponen (chip, baterai, kabel, sensor) di dalam/atas area lintasan tanpa izin resmi |
+| 3 | 🚫 **Substitusi Robot Ilegal** | Menukar robot dengan unit lain yang tidak terdaftar / dimodifikasi signifikan pasca-homologasi |
+| 4 | 🚫 **Membahayakan Keselamatan** | Robot bocor cairan, mengeluarkan asap/api, meledak, atau melukai orang |
+| 5 | 🚫 **Absen 3 Kali Panggilan** | Tidak merespons 3 kali panggilan berturut-turut dari panitia di babak manapun |
+| 6 | 🚫 **Curang / Sabotase** | Memanipulasi data waktu, merusak robot tim lain, atau kecurangan sistematis |
+| 7 | 🚫 **Pelanggaran Etika Berat** | Intimidasi, penghinaan, ancaman, atau tindakan kekerasan fisik |
 
 **Prosedur diskualifikasi:**
 1. Ketua Wasit mengumpulkan bukti (kesaksian wasit lini, rekaman video jika ada).
 2. Tim dipanggil dan diberi kesempatan klarifikasi **maksimal 2 menit**.
-3. Ketua Wasit mengumumkan keputusan â€” **bersifat final, tidak dapat diganggu gugat**.
+3. Ketua Wasit mengumumkan keputusan — **bersifat final, tidak dapat diganggu gugat**.
 4. Stiker homologasi robot dicabut. Tim diminta meninggalkan area pertandingan dengan tertib.
 
 ---
@@ -648,12 +648,12 @@ Tim akan **langsung didiskualifikasi tanpa hak banding** jika terbukti melakukan
 | **Pencatat Waktu (Timer Officer)** | 1 orang | Mengoperasikan stopwatch, mencatat & mengumumkan hasil setiap run |
 | **Petugas Homologasi** | 2 orang | Memeriksa dimensi, berat, voltase, dan kepatuhan teknis robot |
 
-> ðŸ… Keputusan **Ketua Wasit** adalah keputusan tertinggi. Tidak ada jalur banding di atas Ketua Wasit.
+> 🏅 Keputusan **Ketua Wasit** adalah keputusan tertinggi. Tidak ada jalur banding di atas Ketua Wasit.
 
 ### 11.2 Prosedur Banding / Protes Resmi
 
 ```
-LANGKAH 1 â€” dalam 5 menit setelah kejadian/keputusan:
+LANGKAH 1 — dalam 5 menit setelah kejadian/keputusan:
    Tim LISAN mengajukan keberatan ke Wasit Lini
 
 LANGKAH 2:
@@ -663,23 +663,23 @@ LANGKAH 3:
    Ketua Wasit mendengar kedua pihak
    (masing-masing maksimum 3 menit berbicara)
 
-LANGKAH 4 â€” maksimum 10 menit setelah protes diterima:
+LANGKAH 4 — maksimum 10 menit setelah protes diterima:
    Ketua Wasit mengumumkan keputusan akhir
 
 LANGKAH 5:
-   Keputusan BERSIFAT FINAL â€” tidak ada banding lebih lanjut
+   Keputusan BERSIFAT FINAL — tidak ada banding lebih lanjut
 ```
 
 **Batas waktu pengajuan protes:**
 
 | Jenis Protes | Batas Waktu |
 |-------------|-------------|
-| Atas hasil run / waktu | â‰¤ **5 menit** setelah hasil diumumkan |
+| Atas hasil run / waktu | ≤ **5 menit** setelah hasil diumumkan |
 | Atas keputusan homologasi | Sebelum babak pertandingan pertama dimulai |
 | Atas keputusan diskualifikasi | Segera saat keputusan diumumkan *(lewat prosedur di atas)* |
 | Protes di luar batas waktu | **Tidak akan diproses** |
 
-> âš ï¸ Tim yang **tidak hadir di Technical Meeting** kehilangan **hak banding sepenuhnya** atas keputusan apapun sepanjang kompetisi.
+> ⚠️ Tim yang **tidak hadir di Technical Meeting** kehilangan **hak banding sepenuhnya** atas keputusan apapun sepanjang kompetisi.
 
 ---
 
@@ -691,12 +691,12 @@ Setiap kategori (**Analog** dan **Digital**) memiliki juara **terpisah dan mandi
 
 | Peringkat | Penghargaan |
 |-----------|-------------|
-| ðŸ¥‡ **Juara 1** | Uang pembinaan + Tropi Emas + Sertifikat Juara 1 |
-| ðŸ¥ˆ **Juara 2** | Uang pembinaan + Tropi Perak + Sertifikat Juara 2 |
-| ðŸ¥‰ **Juara 3** | Uang pembinaan + Tropi Perunggu + Sertifikat Juara 3 |
-| ðŸŒŸ **Juara Harapan** *(opsional)* | Plakat + Sertifikat Juara Harapan |
-| ðŸŽ¨ **Best Design** *(opsional)* | Tropi Desain Terbaik + Uang pembinaan + Sertifikat |
-| âœ… **Seluruh Tim Peserta** | Sertifikat Partisipasi resmi berlogo panitia |
+| 🥇 **Juara 1** | Uang pembinaan + Tropi Emas + Sertifikat Juara 1 |
+| 🥈 **Juara 2** | Uang pembinaan + Tropi Perak + Sertifikat Juara 2 |
+| 🥉 **Juara 3** | Uang pembinaan + Tropi Perunggu + Sertifikat Juara 3 |
+| 🌟 **Juara Harapan** *(opsional)* | Plakat + Sertifikat Juara Harapan |
+| 🎨 **Best Design** *(opsional)* | Tropi Desain Terbaik + Uang pembinaan + Sertifikat |
+| ✅ **Seluruh Tim Peserta** | Sertifikat Partisipasi resmi berlogo panitia |
 
 ### 12.2 Referensi Nominal Hadiah (Acuan Anggaran)
 
@@ -705,10 +705,10 @@ Setiap kategori (**Analog** dan **Digital**) memiliki juara **terpisah dan mandi
 | Juara 1 | Rp 5.000.000 | Rp 2.000.000 | Rp 500.000 |
 | Juara 2 | Rp 3.500.000 | Rp 1.500.000 | Rp 300.000 |
 | Juara 3 | Rp 1.500.000 | Rp 1.000.000 | Rp 200.000 |
-| Harapan | Rp 1.000.000 | â€” | Rp 100.000 |
-| Best Design | Rp 750.000 | â€” | Rp 150.000 |
+| Harapan | Rp 1.000.000 | — | Rp 100.000 |
+| Best Design | Rp 750.000 | — | Rp 150.000 |
 
-> ðŸ’¡ Hadiah **uang tunai bersifat opsional** â€” yang terpenting adalah tropi dan sertifikat resmi sebagai bukti prestasi akademik peserta.
+> 💡 Hadiah **uang tunai bersifat opsional** — yang terpenting adalah tropi dan sertifikat resmi sebagai bukti prestasi akademik peserta.
 
 ### 12.3 Kriteria Best Design *(Opsional)*
 
@@ -730,32 +730,32 @@ Setiap kategori (**Analog** dan **Digital**) memiliki juara **terpisah dan mandi
 | Waktu | Kegiatan |
 |-------|----------|
 | 07.00 | Venue dibuka, panitia bersiap |
-| 07.30 | **Homologasi** dimulai â€” Kat. A dan D paralel |
+| 07.30 | **Homologasi** dimulai — Kat. A dan D paralel |
 | 09.00 | Homologasi selesai, pengumuman robot lulus |
 | 09.15 | Briefing terakhir wasit + panitia |
 | 09.30 | **Babak Penyisihan Kategori A** (Analog) dimulai |
-| 11.00 | Penyisihan Kat. A selesai â†’ pengumuman Top 8 |
+| 11.00 | Penyisihan Kat. A selesai → pengumuman Top 8 |
 | 11.15 | **Babak Penyisihan Kategori D** (Digital) dimulai |
-| 13.00 | ISHOMA â€” jeda makan siang |
-| 13.45 | Penyisihan Kat. D selesai â†’ pengumuman Top 8 |
+| 13.00 | ISHOMA — jeda makan siang |
+| 13.45 | Penyisihan Kat. D selesai → pengumuman Top 8 |
 | 14.00 | Ganti lintasan (pasang lintasan semifinal) |
 | 14.15 | **Babak Semifinal Kategori A** (Top 8) |
-| 15.15 | Semifinal Kat. A selesai â†’ umumkan Juara 3 + 2 Finalis |
+| 15.15 | Semifinal Kat. A selesai → umumkan Juara 3 + 2 Finalis |
 | 15.30 | **Babak Semifinal Kategori D** (Top 8) |
-| 16.30 | Semifinal Kat. D selesai â†’ umumkan Juara 3 + 2 Finalis |
+| 16.30 | Semifinal Kat. D selesai → umumkan Juara 3 + 2 Finalis |
 | 16.45 | Ganti lintasan (pasang lintasan final) |
-| 17.00 | **Babak Final Kat. A â€” Battle Mode** |
-| 17.20 | **Babak Final Kat. D â€” Battle Mode** |
+| 17.00 | **Babak Final Kat. A — Battle Mode** |
+| 17.20 | **Babak Final Kat. D — Battle Mode** |
 | 17.40 | **Pengumuman & Penyerahan Hadiah** |
 | 18.00 | Foto bersama, acara selesai |
 
-> â±ï¸ Estimasi waktu per tim di penyisihan: ~8 menit (2 run Ã— 3 menit + jeda 5 menit). Untuk 16 tim = Â±128 menit â‰ˆ 2 jam per kategori.
+> ⏱️ Estimasi waktu per tim di penyisihan: ~8 menit (2 run × 3 menit + jeda 5 menit). Untuk 16 tim = ±128 menit ≈ 2 jam per kategori.
 
 ---
 
 ## 14. CHECKLIST PANITIA
 
-### ðŸ“‹ H-30 â€” Persiapan Awal
+### 📋 H-30 — Persiapan Awal
 - [ ] Finalisasi panduan dan publikasikan ke calon peserta
 - [ ] Buka formulir pendaftaran online
 - [ ] Tentukan nominal hadiah + cari sponsor jika perlu
@@ -763,7 +763,7 @@ Setiap kategori (**Analog** dan **Digital**) memiliki juara **terpisah dan mandi
 - [ ] Desain lintasan semifinal & final *(simpan rahasia)*
 - [ ] Konfirmasi ketersediaan venue
 
-### ðŸ“‹ H-14 â€” Dua Minggu Sebelum
+### 📋 H-14 — Dua Minggu Sebelum
 - [ ] Buat / pesan inspection box (kotak uji dimensi) untuk Kat. A dan D
 - [ ] Beli: timbangan digital, multimeter, stopwatch/timer digital, meteran
 - [ ] Rekrut wasit: 1 Ketua Wasit, 2 Wasit Lini, 1 Timer Officer, 2 Petugas Homologasi
@@ -771,50 +771,50 @@ Setiap kategori (**Analog** dan **Digital**) memiliki juara **terpisah dan mandi
 - [ ] Siapkan perlengkapan pit stop (meja, kursi, power strip untuk charging)
 - [ ] Siapkan kaos kaki cadangan untuk peserta yang lupa (opsional tapi dianjurkan)
 
-### ðŸ“‹ H-7 â€” Seminggu Sebelum
-- [ ] Tutup pendaftaran â€” rekap daftar peserta final per kategori
+### 📋 H-7 — Seminggu Sebelum
+- [ ] Tutup pendaftaran — rekap daftar peserta final per kategori
 - [ ] Verifikasi kelengkapan dokumen semua tim
 - [ ] Konfirmasi pembayaran semua tim
 - [ ] Kirim reminder TM kepada seluruh perwakilan tim
 - [ ] Terima & cek kualitas cetakan banner lintasan penyisihan
-- [ ] Briefing internal seluruh panitia & wasit â€” bacakan panduan bersama
+- [ ] Briefing internal seluruh panitia & wasit — bacakan panduan bersama
 
-### ðŸ“‹ H-1 â€” Sehari Sebelum
-- [ ] Pasang lintasan penyisihan di venue â€” **uji dengan robot panitia** (wajib!)
+### 📋 H-1 — Sehari Sebelum
+- [ ] Pasang lintasan penyisihan di venue — **uji dengan robot panitia** (wajib!)
 - [ ] Cek pencahayaan: tidak ada silau, bayangan, atau refleksi ke permukaan lintasan
 - [ ] Pasang penanda zona (area lintasan, area start/finish, pit stop, area penonton)
-- [ ] Lakukan **Technical Meeting** â€” hadirkan semua perwakilan tim
+- [ ] Lakukan **Technical Meeting** — hadirkan semua perwakilan tim
 - [ ] Umumkan nomor urut penampilan hasil undian di TM
 - [ ] Siapkan sistem dokumentasi (kamera/HP + tripod untuk merekam setiap run)
 - [ ] Test stopwatch / sensor inframerah garis finish
 
-### ðŸ“‹ Hari-H â€” Pagi
+### 📋 Hari-H — Pagi
 - [ ] Buka venue 30 menit sebelum jadwal homologasi
-- [ ] Mulai **proses homologasi** â€” Kat. A dan D paralel
+- [ ] Mulai **proses homologasi** — Kat. A dan D paralel
 - [ ] Tempelkan stiker homologasi + label nomor peserta ke robot yang lulus
 - [ ] Umumkan robot yang tidak lulus (dengan alasan jelas)
 - [ ] Pastikan semua wasit sudah di posisi sebelum pertandingan dimulai
 - [ ] Test ulang sistem timer
 
-### ðŸ“‹ Hari-H â€” Pertandingan
-- [ ] Jalankan Penyisihan Kat. A â†’ rekap â†’ umumkan Top 8
-- [ ] Jalankan Penyisihan Kat. D â†’ rekap â†’ umumkan Top 8
-- [ ] Pasang lintasan baru (Semifinal) â€” pastikan peserta tidak melihat proses ini
-- [ ] Jalankan Semifinal Kat. A â†’ rekap â†’ umumkan Juara 3 dan 2 Finalis
-- [ ] Jalankan Semifinal Kat. D â†’ rekap â†’ umumkan Juara 3 dan 2 Finalis
+### 📋 Hari-H — Pertandingan
+- [ ] Jalankan Penyisihan Kat. A → rekap → umumkan Top 8
+- [ ] Jalankan Penyisihan Kat. D → rekap → umumkan Top 8
+- [ ] Pasang lintasan baru (Semifinal) — pastikan peserta tidak melihat proses ini
+- [ ] Jalankan Semifinal Kat. A → rekap → umumkan Juara 3 dan 2 Finalis
+- [ ] Jalankan Semifinal Kat. D → rekap → umumkan Juara 3 dan 2 Finalis
 - [ ] Pasang lintasan Final
 - [ ] Lakukan undian posisi start Battle Final (Kat. A, lalu Kat. D)
-- [ ] Jalankan Final Battle Kat. A â†’ umumkan Juara 1 & 2
-- [ ] Jalankan Final Battle Kat. D â†’ umumkan Juara 1 & 2
+- [ ] Jalankan Final Battle Kat. A → umumkan Juara 1 & 2
+- [ ] Jalankan Final Battle Kat. D → umumkan Juara 1 & 2
 
-### ðŸ“‹ Hari-H â€” Penutupan
+### 📋 Hari-H — Penutupan
 - [ ] Pengumuman semua pemenang (Juara 1, 2, 3 tiap kategori)
 - [ ] Penyerahan tropi, plakat, hadiah uang pembinaan
 - [ ] Foto bersama semua pemenang
-- [ ] Buka sesi keberatan resmi (**15 menit** â€” setelah itu ditutup)
+- [ ] Buka sesi keberatan resmi (**15 menit** — setelah itu ditutup)
 - [ ] Informasikan jadwal pengiriman sertifikat ke seluruh peserta
 
-### ðŸ“‹ Pasca Pertandingan
+### 📋 Pasca Pertandingan
 - [ ] Publikasikan rekap waktu/nilai seluruh peserta (transparansi)
 - [ ] Cetak dan kirim sertifikat partisipasi ke semua tim
 - [ ] Laporan pertanggungjawaban kegiatan
@@ -828,36 +828,36 @@ Setiap kategori (**Analog** dan **Digital**) memiliki juara **terpisah dan mandi
 | Parameter | Keputusan |
 |-----------|-----------|
 | **Target peserta** | SMP ke atas (SMP, SMA/SMK, Mahasiswa, Umum) |
-| **Kategori resmi** | **2 kategori: Analog (A) & Digital (D)** â€” berjalan terpisah |
-| **SMP di Kategori Digital** | âœ… **Diizinkan** â€” tidak ada pembatasan berdasarkan jenjang |
-| **Lintasan** | **Dasar** â€” Tikungan tajam, garis putus, persimpangan T/+ |
-| **Elemen lanjutan** | âŒ Tidak digunakan (elevasi, obstacle, inversi, S/V/Z) |
-| **Jenis lintasan** | Terbuka (*open track*) â€” Start ke Finish, bukan loop |
-| **Format penyisihan** | **Time Trial** â€” 2 run, ambil waktu terbaik |
-| **Format semifinal** | **Time Trial** â€” 2 run, lintasan baru, ambil waktu terbaik |
-| **Format final** | **Battle Mode Head-to-Head** â€” sistem poin 4-tier (3/2/1/0) |
+| **Kategori resmi** | **2 kategori: Analog (A) & Digital (D)** — berjalan terpisah |
+| **SMP di Kategori Digital** | ✅ **Diizinkan** — tidak ada pembatasan berdasarkan jenjang |
+| **Lintasan** | **Dasar** — Tikungan tajam, garis putus, persimpangan T/+ |
+| **Elemen lanjutan** | ❌ Tidak digunakan (elevasi, obstacle, inversi, S/V/Z) |
+| **Jenis lintasan** | Terbuka (*open track*) — Start ke Finish, bukan loop |
+| **Format penyisihan** | **Time Trial** — 2 run, ambil waktu terbaik |
+| **Format semifinal** | **Time Trial** — 2 run, lintasan baru, ambil waktu terbaik |
+| **Format final** | **Battle Mode Head-to-Head** — sistem poin 4-tier (3/2/1/0) |
 | **Penentuan Juara 3** | Dari data peringkat 3 semifinal (tanpa babak playoff) |
 | **Posisi start Battle** | Ditentukan lewat **undian** sebelum Final |
 | **Retry penyisihan** | **8 kali** per run |
 | **Retry semifinal** | **5 kali** per run |
 | **Retry final** | **3 kali** per run |
 | **Waktu persiapan start** | 2 menit sejak dipanggil masuk area start |
-| **Kalibrasi sensor di start** | âœ… Diizinkan selama masa persiapan 2 menit |
+| **Kalibrasi sensor di start** | ✅ Diizinkan selama masa persiapan 2 menit |
 | **Jeda antar run** | 5 menit untuk tuning di pit stop |
-| **Alas kaki di lintasan** | âŒ Wajib lepas â€” hanya kaos kaki saja |
-| **Aerodinamika aktif** | âŒ Dilarang semua kategori |
-| **Remote control** | âŒ Diskualifikasi langsung |
-| **Penandaan robot** | âœ… Wajib: label nama tim + nomor peserta dari panitia |
-| **Contingency peserta sedikit** | Format disesuaikan â€” diumumkan di TM |
+| **Alas kaki di lintasan** | ❌ Wajib lepas — hanya kaos kaki saja |
+| **Aerodinamika aktif** | ❌ Dilarang semua kategori |
+| **Remote control** | ❌ Diskualifikasi langsung |
+| **Penandaan robot** | ✅ Wajib: label nama tim + nomor peserta dari panitia |
+| **Contingency peserta sedikit** | Format disesuaikan — diumumkan di TM |
 | **Force majeure** | Keputusan Ketua Wasit mutlak |
-| **Hadiah** | Ditentukan menyusul â€” struktur & referensi sudah tercantum |
+| **Hadiah** | Ditentukan menyusul — struktur & referensi sudah tercantum |
 
 | **Batas tim per institusi** | Maks. **3 tim per kategori** per institusi |
 | **Tim lintas jenjang** | Dikategorikan berdasarkan jenjang tertinggi anggota |
 | **Jaminan jadwal** | Kat. A dan D **tidak berjalan bersamaan** |
-| **Dimensi arena** | Min. 3m Ã— 4m (rekomendasi dasar); standar internasional 4,5m Ã— 2,8m |
-| **Posisi lintasan** | **Di lantai** (0 cm elevasi) â€” bukan di meja |
-| **Flash kamera** | âŒ Dilarang saat run berlangsung |
+| **Dimensi arena** | Min. 3m × 4m (rekomendasi dasar); standar internasional 4,5m × 2,8m |
+| **Posisi lintasan** | **Di lantai** (0 cm elevasi) — bukan di meja |
+| **Flash kamera** | ❌ Dilarang saat run berlangsung |
 
 ---
 
@@ -867,42 +867,42 @@ Panduan ini disusun berdasarkan regulasi kompetisi resmi berikut:
 
 | No. | Referensi | Sumber |
 |-----|-----------|--------|
-| Â¹ | Batas 3 tim per institusi per kategori | Adaptasi dari Technocorner UGM 2016 â€” *Petunjuk Teknis Line Follower Competition* |
-| Â² | Lintasan digelar di atas lantai (0 cm) | Standar umum kompetisi LFR regional Indonesia; Robotex International Line Following Rules |
-| Â³ | Dimensi arena 4,5m Ã— 2,8m | **RobotChallenge â€” *Line Follower Rules*** (RC-LineFollower.pdf) â€” arena internasional resmi |
-| â´ | Panjang total jalur 5â€“8 meter | Standar kompetisi regional: MRC VIII, ELCCO Udayana, Technocorner UGM |
-| âµ | Lebar area start/finish minimum 50 cm | **Technocorner UGM 2016** â€” *Petunjuk Teknis LFC* |
-| â¶ | Larangan flash kamera (sensor IR interference) | **MEB Robot Turkey 2023** â€” *line follower robot category rules*; RoboCore Line Follower Rules (Brazil) |
-| â€” | Dimensi robot Analog (20Ã—20Ã—15 cm, 1 kg) | **Technocorner UGM 2016**; **MEB Robot Turkey 2024** |
-| â€” | Dimensi robot Digital (25Ã—25Ã—25 cm, 1,5 kg) | **MRC VIII** â€” *Rule Line Follower Digital SMP* |
-| â€” | Voltase maks. 12V DC | **MEB Robot Turkey 2024**; **RobotChallenge** |
-| â€” | Sensor Analog maks. 4, Digital maks. 10 | **MRC VIII**; **MEB Robot Turkey 2023** |
-| â€” | Retry 8Ã—/5Ã—/3Ã— (Penyisihan/Semi/Final) | **Scribd â€” Line Follower Robot Competition Rules**; Technocorner UGM 2016 |
-| â€” | Sistem poin Battle Mode 4-tier (3/2/1/0) | **Technocorner UGM 2016** â€” *Petunjuk Teknis LFC* |
-| â€” | Waktu maks. per run 3 menit | **Technocorner UGM 2016**; **RobotChallenge** |
-| â€” | Radius tikungan min. 150 mm | **Micromouse Online** â€” *Line Follower Test Track* |
-| â€” | Lebar garis 20Â±2 mm (Digital) | **MEB Robot Turkey 2023** |
-| â€” | Lebar garis 28â€“30 mm (Analog) | **MRC VIII** â€” *Rule Line Follower Digital SMP* |
-| â€” | Lintasan banner cetak putih + garis hitam | Standar umum kompetisi tingkat menengah Indonesia |
-| â€” | Kalibrasi hanya boleh di luar lintasan | **RoboCore Line Follower Rules** (Brazil, AWS bucket) |
-| â€” | Homologasi + stiker resmi anti-substitusi | **Technocorner UGM 2016**; **ELCCO Udayana 2022** |
+| ¹ | Batas 3 tim per institusi per kategori | Adaptasi dari Technocorner UGM 2016 — *Petunjuk Teknis Line Follower Competition* |
+| ² | Lintasan digelar di atas lantai (0 cm) | Standar umum kompetisi LFR regional Indonesia; Robotex International Line Following Rules |
+| ³ | Dimensi arena 4,5m × 2,8m | **RobotChallenge — *Line Follower Rules*** (RC-LineFollower.pdf) — arena internasional resmi |
+| ⁴ | Panjang total jalur 5–8 meter | Standar kompetisi regional: MRC VIII, ELCCO Udayana, Technocorner UGM |
+| ⁵ | Lebar area start/finish minimum 50 cm | **Technocorner UGM 2016** — *Petunjuk Teknis LFC* |
+| ⁶ | Larangan flash kamera (sensor IR interference) | **MEB Robot Turkey 2023** — *line follower robot category rules*; RoboCore Line Follower Rules (Brazil) |
+| — | Dimensi robot Analog (20×20×15 cm, 1 kg) | **Technocorner UGM 2016**; **MEB Robot Turkey 2024** |
+| — | Dimensi robot Digital (25×25×25 cm, 1,5 kg) | **MRC VIII** — *Rule Line Follower Digital SMP* |
+| — | Voltase maks. 12V DC | **MEB Robot Turkey 2024**; **RobotChallenge** |
+| — | Sensor Analog maks. 4, Digital maks. 10 | **MRC VIII**; **MEB Robot Turkey 2023** |
+| — | Retry 8×/5×/3× (Penyisihan/Semi/Final) | **Scribd — Line Follower Robot Competition Rules**; Technocorner UGM 2016 |
+| — | Sistem poin Battle Mode 4-tier (3/2/1/0) | **Technocorner UGM 2016** — *Petunjuk Teknis LFC* |
+| — | Waktu maks. per run 3 menit | **Technocorner UGM 2016**; **RobotChallenge** |
+| — | Radius tikungan min. 150 mm | **Micromouse Online** — *Line Follower Test Track* |
+| — | Lebar garis 20±2 mm (Digital) | **MEB Robot Turkey 2023** |
+| — | Lebar garis 28–30 mm (Analog) | **MRC VIII** — *Rule Line Follower Digital SMP* |
+| — | Lintasan banner cetak putih + garis hitam | Standar umum kompetisi tingkat menengah Indonesia |
+| — | Kalibrasi hanya boleh di luar lintasan | **RoboCore Line Follower Rules** (Brazil, AWS bucket) |
+| — | Homologasi + stiker resmi anti-substitusi | **Technocorner UGM 2016**; **ELCCO Udayana 2022** |
 
 ### Dokumen Sumber Primer
 
-1. Petunjuk Teknis Line Follower Competition â€” *Technocorner UGM 2016* â€” https://2016.archive.technocorner.id/download/Petunjuk-Teknis-LFC.pdf
-2. Line Follower Robot Category Rules â€” *MEB Robot Turkey 2023* â€” https://robot.meb.gov.tr/yukleme/Robot2023/3_Cizgi_izleyen_ileri_en.pdf
-3. Line Follower Basic 2024 â€” *MEB Robot Turkey 2024* â€” https://robot.meb.gov.tr/yukleme/Robot2024/1_line_follower_basic2024_erzurum.pdf
-4. Line Follower â€” *RobotChallenge International* â€” https://www.robotchallenge.org.cn/doc/en/RC-LineFollower.pdf
-5. Line Following â€” *Robotex International* â€” https://robotex.international/line-following/
-6. Petunjuk Pelaksanaan Line Follower ELCCO 2022 â€” *Universitas Udayana* â€” https://elcco.unud.ac.id/Line%20Follower/PETUNJUK%20PELAKSANAAN%20LINE%20FOLLOWER%20ELCCO%202022.pdf
-7. Rule Line Follower Digital SMP â€” *MRC VIII* â€” https://www.scribd.com/document/764833389/Rule-Line-Follower-Digital-smp-MRC-VIII-1
-8. RoboCore Line Follower Rules â€” *RoboCore (Brazil)* â€” https://robocore-eventos.s3.sa-east-1.amazonaws.com/public/RoboCore_Line_Follower_Rules.pdf
-9. Line Follower Test Track â€” *Micromouse Online* â€” https://micromouseonline.com/2008/11/16/line-follower-test-track/
-10. Line Follower Robot Competition Rules â€” *Scribd* â€” https://www.scribd.com/doc/284284340/Line-Follower-Robot-Limit
+1. Petunjuk Teknis Line Follower Competition — *Technocorner UGM 2016* — https://2016.archive.technocorner.id/download/Petunjuk-Teknis-LFC.pdf
+2. Line Follower Robot Category Rules — *MEB Robot Turkey 2023* — https://robot.meb.gov.tr/yukleme/Robot2023/3_Cizgi_izleyen_ileri_en.pdf
+3. Line Follower Basic 2024 — *MEB Robot Turkey 2024* — https://robot.meb.gov.tr/yukleme/Robot2024/1_line_follower_basic2024_erzurum.pdf
+4. Line Follower — *RobotChallenge International* — https://www.robotchallenge.org.cn/doc/en/RC-LineFollower.pdf
+5. Line Following — *Robotex International* — https://robotex.international/line-following/
+6. Petunjuk Pelaksanaan Line Follower ELCCO 2022 — *Universitas Udayana* — https://elcco.unud.ac.id/Line%20Follower/PETUNJUK%20PELAKSANAAN%20LINE%20FOLLOWER%20ELCCO%202022.pdf
+7. Rule Line Follower Digital SMP — *MRC VIII* — https://www.scribd.com/document/764833389/Rule-Line-Follower-Digital-smp-MRC-VIII-1
+8. RoboCore Line Follower Rules — *RoboCore (Brazil)* — https://robocore-eventos.s3.sa-east-1.amazonaws.com/public/RoboCore_Line_Follower_Rules.pdf
+9. Line Follower Test Track — *Micromouse Online* — https://micromouseonline.com/2008/11/16/line-follower-test-track/
+10. Line Follower Robot Competition Rules — *Scribd* — https://www.scribd.com/doc/284284340/Line-Follower-Robot-Limit
 
 ---
 
 *Panduan ini dinyatakan **FINAL** untuk edisi pertama lomba.*
 *Perubahan aturan hanya dapat dilakukan **sebelum Technical Meeting** dan wajib dikomunikasikan kepada seluruh peserta terdaftar.*
 
-*Versi 4.0 â€” Disusun & diverifikasi berdasarkan 10 regulasi kompetisi Line Follower nasional & internasional.*
+*Versi 4.0 — Disusun & diverifikasi berdasarkan 10 regulasi kompetisi Line Follower nasional & internasional.*
